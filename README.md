@@ -1,4 +1,3 @@
-````markdown
 ## Hi there 👋
 
 I'm Dave Thomas, a software engineer at Moirae Software Engineering Ltd based in the UK.
@@ -12,4 +11,3 @@ I'm Dave Thomas, a software engineer at Moirae Software Engineering Ltd based in
 * ⚡ Fun fact: I’m also a guitarist and enjoy merging music with technology!
 
 Let's connect and build something great together!
-````
