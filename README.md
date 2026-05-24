@@ -6,7 +6,7 @@ I'm Dave Thomas, a software engineer at Moirae Software Engineering Ltd based in
 * 💬 Ask me about C++, F#, Rust, Swift, Python, or anything related to software architecture and engineering.
 
 ⚡ Fun facts:
-  * 🎸 I’m a guitarist and enjoy playing **really** heavy metal.
+  * 🎸 I’m a guitarist and enjoy playing metal and grunge.
   * 🖌️ I also love to paint fantasy miniatures like Warhammer etc.
     
 📫 How to reach me:
